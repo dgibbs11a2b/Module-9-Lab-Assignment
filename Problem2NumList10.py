@@ -24,3 +24,12 @@ while counter_value <= counter_max:
   
 print('The updated list is: ', l)
 #Updated List
+
+#x = 0
+#L = []
+
+#while x < 11:
+#	L.append(x)
+#	x += 1
+	
+#print(L)
