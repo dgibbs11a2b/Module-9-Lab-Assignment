@@ -24,6 +24,6 @@ while a != 0:
     a = int(input("C'mon, enter another integer: "))
     l.append(a)
 #appends values to the list 'l'
-    
+#the sum that the following line returns doesn't include the first input value.  Did you notice this?!    
     print('The sum of the list is now', l)
 #assigns second integer entered to "a"
